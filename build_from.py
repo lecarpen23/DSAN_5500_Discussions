@@ -1,4 +1,4 @@
-class NaryHeap:
+class NArrayHeap:
     def __init__(self, branching_factor=2):
         self.heapList = [0]
         self.currentSize = 0
